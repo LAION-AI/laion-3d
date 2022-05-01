@@ -26,6 +26,8 @@ Examples:
 
 ### Generative
 
+https://github.com/google-research/kubric from uwu1
+
 3d -> text 
 
 text -> 3d 
