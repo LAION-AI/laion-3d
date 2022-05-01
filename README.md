@@ -17,6 +17,8 @@ Examples:
 
 ## Models
 
+* https://docs.google.com/document/d/18mYb6bhmeRAbnZ1yqTe1fG7MYNFtckZtOyfZJSBy2ZE/edit#heading=h.p6jhlii5bhg5 
+
 ### contrastive
 
 * (3d, text)
