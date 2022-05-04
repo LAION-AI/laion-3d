@@ -194,7 +194,7 @@ Examples:
 * (3d, text)
 * (3d, image)
 
-### Generative
+### Synthetic Data Generation
 
 https://github.com/google-research/kubric from uwu1
 
