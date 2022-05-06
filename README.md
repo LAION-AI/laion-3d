@@ -5,7 +5,7 @@ Collect large 3d dataset and build models
 https://github.com/LAION-AI/project-menu/issues/23
 
 
-## Datasets
+## Dataset specs
 
 Can be:
 * 3d alone
@@ -14,6 +14,11 @@ Can be:
 
 Examples:
 * https://github.com/rom1504/minecraft-schematics-dataset
+
+## Datasets
+
+* [30k samples from thingiverse](https://zenodo.org/record/1098527) (3d printing STL model files)
+* [Fusion360Gallery](https://github.com/AutodeskAILab/Fusion360GalleryDataset)
 
 ## Models
 
