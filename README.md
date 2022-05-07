@@ -19,6 +19,20 @@ Examples:
 
 * [30k samples from thingiverse](https://zenodo.org/record/1098527) (3d printing STL model files)
 * [Fusion360Gallery](https://github.com/AutodeskAILab/Fusion360GalleryDataset)
+* [Amazon Berkeley Objects (ABO)](https://amazon-berkeley-objects.s3.amazonaws.com/index.html#download), a dataset of Amazon products with metadata, catalog images, and 3D models.
+* [Large Geometric Models Archive](https://www.cc.gatech.edu/projects/large_models/about.html)
+* [FaceScape](https://facescape.nju.edu.cn/Page_Download/), a large-scale detailed 3D face dataset (application required).
+* [Redwood 3DScan](https://github.com/isl-org/redwood-3dscan), more than ten thousand 3D scans of real objects.
+* [Human3.6M](http://vision.imar.ro/human3.6m/description.php), 3.6 million 3D human poses and corresponding images.
+* [Semantic3D](https://www.semantic3d.net/), a large labelled 3D point cloud data set of natural scenes with over 4 billion points in total.
+* [SceneNN / ObjectNN](https://github.com/hkust-vgd/scenenn), an RGB-D dataset with more than 100 indoor scenes along with RGB-D objects extracted and split into 20 categories.
+* [3D-FRONT](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset), a dataset of 3D furnished rooms with layouts and semantics.
+* [3D-FUTURE](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future), a dataset of 3D furniture shapes with textures.
+* [ABC](https://deep-geometry.github.io/abc-dataset/0), a collection of one million Computer-Aided Design (CAD) models
+* [Structured3D](https://structured3d-dataset.org/#download), a large-scale photo-realistic dataset containing 3.5K house designs with a variety of ground truth 3D structure annotations.
+* [ShapeNet](https://shapenet.org/), a richly-annotated, large-scale dataset of 3D shapes.
+* [FixIt!](https://drive.google.com/drive/folders/1h9kMRilQcjbD4Tyt58pmMUEnMIicNATi), a dataset that contains about 5k poorly-designed 3D physical objects paired with choices to fix them.
+* [ModelNet](http://modelnet.cs.princeton.edu/#), a comprehensive clean collection of 3D CAD models for objects.
 
 ## Models
 
