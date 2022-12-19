@@ -17,6 +17,7 @@ Examples:
 
 ## Datasets
 
+* [Objaverse](https://objaverse.allenai.org/#explore): A Massive Dataset with 800K+ Annotated 3D Objects
 * [30k samples from thingiverse](https://zenodo.org/record/1098527) (3d printing STL model files)
 * [Fusion360Gallery](https://github.com/AutodeskAILab/Fusion360GalleryDataset)
 * [Amazon Berkeley Objects (ABO)](https://amazon-berkeley-objects.s3.amazonaws.com/index.html#download), a dataset of Amazon products with metadata, catalog images, and 3D models.
