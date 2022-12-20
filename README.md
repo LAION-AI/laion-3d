@@ -33,6 +33,7 @@ Examples:
 * [ShapeNet](https://shapenet.org/), a richly-annotated, large-scale dataset of 3D shapes.
 * [FixIt!](https://drive.google.com/drive/folders/1h9kMRilQcjbD4Tyt58pmMUEnMIicNATi), a dataset that contains about 5k poorly-designed 3D physical objects paired with choices to fix them.
 * [ModelNet](http://modelnet.cs.princeton.edu/#), a comprehensive clean collection of 3D CAD models for objects.
+* []
 
 ## Models
 
@@ -207,6 +208,10 @@ Examples:
 
 
 ### Benchmarks
+
+* SQA3D: Situated Question Answering in 3D Scenes
+   * Paper: [https://arxiv.org/abs/2210.07474](https://arxiv.org/abs/2210.07474)
+   * Code: 😥
 
 ### contrastive
 
