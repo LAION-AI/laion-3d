@@ -17,6 +17,7 @@ Examples:
 
 ## Datasets
 
+* [Compilation of 3D mesh models] (https://zshn25.github.io/compilation-3d-mesh-resources/) [Github](https://github.com/zshn25/compilation-of-3d-mesh-model-resources)
 * [30k samples from thingiverse](https://zenodo.org/record/1098527) (3d printing STL model files)
 * [Fusion360Gallery](https://github.com/AutodeskAILab/Fusion360GalleryDataset)
 * [Amazon Berkeley Objects (ABO)](https://amazon-berkeley-objects.s3.amazonaws.com/index.html#download), a dataset of Amazon products with metadata, catalog images, and 3D models.
